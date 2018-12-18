@@ -48,3 +48,9 @@ th {
   border-width: 1px;
   border-color: grey;
 }
+
+.trophy {
+  justify-self: center;
+  height: 4rem;
+  width: auto;
+}
